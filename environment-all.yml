@@ -1,7 +1,7 @@
-name: hyperspy
+name: exspy
 channels:
   - conda-forge
 dependencies:
   - hyperspy
+  - exspy
   - ipympl
-
