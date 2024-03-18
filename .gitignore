@@ -55,4 +55,5 @@ docs/_build/
 #Ipython checkpoints
 .ipynb_checkpoints
 *.DS_Store
+.virtual_documents
 

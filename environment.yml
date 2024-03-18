@@ -2,7 +2,9 @@ name: exspy
 channels:
   - conda-forge
 dependencies:
-  - exspy>=1.7.0
-  - hyperspy-gui-ipywidgets>=1.5.0
+  - exspy
+  - hyperspy-gui-ipywidgets>=2.0
   - ipympl
+  - numba
+  - numexpr
   - scikit-learn
